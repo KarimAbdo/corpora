@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Abyssinian",
+    "name_de": "Abessinier"
+  },
+  {
+    "name": "Aegean",
+    "name_de": "Ägäis"
+  },
+  {
+    "name": "American Bobtail",
+    "name_de": "Amerikanischer Bobtail"
+  },
+  {
+    "name": "American Curl",
+    "name_de": "American Curl"
+  },
+  {
+    "name": "American Shorthair",
+    "name_de": "Amerikanisch Kurzhaar"
+  },
+  {
+    "name": "American Wirehair",
+    "name_de": "American Wirehair"
+  },
+  {
+    "name": "Arabian Mau",
+    "name_de": "Arabian Mau"
+  },
+  {
+    "name": "Asian",
+    "name_de": "Asiatisch"
+  },
+  {
+    "name": "Asian Semi-longhair",
+    "name_de": "Asian Semi-longhair"
+  },
+  {
+    "name": "Australian Mist",
+    "name_de": "Australian Mist"
+  },
+  {
+    "name": "Balinese",
+    "name_de": "Balinesen"
+  },
+  {
+    "name": "Bambino",
+    "name_de": "Bambino"
+  },
+  {
+    "name": "Bengal",
+    "name_de": "Bengal"
+  },
+  {
+    "name": "Birman",
+    "name_de": "Birman"
+  },
+  {
+    "name": "Bombay",
+    "name_de": "Bombay"
+  },
+  {
+    "name": "Brazilian Shorthair",
+    "name_de": "Brasilianisch Kurzhaar"
+  },
+  {
+    "name": "British Longhair",
+    "name_de": "Britisches Langhaar"
+  },
+  {
+    "name": "British Semi-longhair",
+    "name_de": "British Semi-longhair"
+  },
+  {
+    "name": "British Shorthair",
+    "name_de": "Britisch Kurzhaar"
+  },
+  {
+    "name": "Burmese",
+    "name_de": "Birmanisch"
+  },
+  {
+    "name": "Burmilla",
+    "name_de": "Burmilla"
+  },
+  {
+    "name": "California Spangled",
+    "name_de": "California Spangled"
+  },
+  {
+    "name": "Chantilly-Tiffany",
+    "name_de": "Chantilly-Tiffany"
+  },
+  {
+    "name": "Chartreux",
+    "name_de": "Chartreux"
+  },
+  {
+    "name": "Chausie",
+    "name_de": "Chausie"
+  },
+  {
+    "name": "Cheetoh",
+    "name_de": "Cheetoh"
+  },
+  {
+    "name": "Colorpoint Shorthair",
+    "name_de": "Colorpoint Kurzhaar"
+  },
+  {
+    "name": "Cornish Rex",
+    "name_de": "Cornish Rex"
+  },
+  {
+    "name": "Cymric",
+    "name_de": "Cymric"
+  },
+  {
+    "name": "Cyprus",
+    "name_de": "Zypern"
+  },
+  {
+    "name": "Devon Rex",
+    "name_de": "Devon Rex"
+  },
+  {
+    "name": "Donskoy",
+    "name_de": "Donskoy"
+  },
+  {
+    "name": "Dragon Li",
+    "name_de": "Dragon Li"
+  },
+  {
+    "name": "Dwarf cat",
+    "name_de": "Zwergkatze"
+  },
+  {
+    "name": "Egyptian Mau",
+    "name_de": "Ägyptische Mau"
+  },
+  {
+    "name": "European Shorthair",
+    "name_de": "Europäisch Kurzhaar"
+  },
+  {
+    "name": "Exotic Shorthair",
+    "name_de": "Exotisch Kurzhaar"
+  },
+  {
+    "name": "Foldex",
+    "name_de": "Foldex"
+  },
+  {
+    "name": "German Rex",
+    "name_de": "German Rex"
+  },
+  {
+    "name": "Havana Brown",
+    "name_de": "Havana Brown"
+  },
+  {
+    "name": "Highlander",
+    "name_de": "Highlander"
+  },
+  {
+    "name": "Himalayan",
+    "name_de": "Himalaya"
+  },
+  {
+    "name": "Japanese Bobtail",
+    "name_de": "Japanischer Bobtail"
+  },
+  {
+    "name": "Javanese",
+    "name_de": "Javanese"
+  },
+  {
+    "name": "Khao Manee",
+    "name_de": "Khao Manee"
+  },
+  {
+    "name": "Korat",
+    "name_de": "Korat"
+  },
+  {
+    "name": "Korean Bobtail",
+    "name_de": "Koreanischer Bobtail"
+  },
+  {
+    "name": "Korn Ja",
+    "name_de": "Korn Ja"
+  },
+  {
+    "name": "Kurilian Bobtail",
+    "name_de": "Kurilian Bobtail"
+  },
+  {
+    "name": "LaPerm",
+    "name_de": "LaPerm"
+  },
+  {
+    "name": "Lykoi",
+    "name_de": "Lykoi"
+  },
+  {
+    "name": "Maine Coon",
+    "name_de": "Maine Coon"
+  },
+  {
+    "name": "Manx",
+    "name_de": "Manx"
+  },
+  {
+    "name": "Mekong Bobtail",
+    "name_de": "Mekong Bobtail"
+  },
+  {
+    "name": "Minskin",
+    "name_de": "Minskin"
+  },
+  {
+    "name": "Munchkin",
+    "name_de": "Munchkin"
+  },
+  {
+    "name": "Napoleon",
+    "name_de": "Napoleon"
+  },
+  {
+    "name": "Nebelung",
+    "name_de": "Nebelung"
+  },
+  {
+    "name": "Norwegian Forest cat",
+    "name_de": "Norwegische Waldkatze"
+  },
+  {
+    "name": "Ocicat",
+    "name_de": "Ocicat"
+  },
+  {
+    "name": "Ojos Azules",
+    "name_de": "Blaue Augen"
+  },
+  {
+    "name": "Oregon Rex",
+    "name_de": "Oregon Rex"
+  },
+  {
+    "name": "Oriental Bicolor",
+    "name_de": "Oriental Bicolor"
+  },
+  {
+    "name": "Oriental Longhair",
+    "name_de": "Orientalisches Langhaar"
+  },
+  {
+    "name": "Oriental Shorthair",
+    "name_de": "Orientalisch Kurzhaar"
+  },
+  {
+    "name": "PerFold",
+    "name_de": "PerFold"
+  },
+  {
+    "name": "Persian (Modern)",
+    "name_de": "Persisch (Modern)"
+  },
+  {
+    "name": "Persian (Traditional)",
+    "name_de": "Persisch (traditionell)"
+  },
+  {
+    "name": "Peterbald",
+    "name_de": "Peterbald"
+  },
+  {
+    "name": "Pixie-bob",
+    "name_de": "Pixie-Bob"
+  },
+  {
+    "name": "Raas",
+    "name_de": "Raas"
+  },
+  {
+    "name": "Ragamuffin",
+    "name_de": "Ragamuffin"
+  },
+  {
+    "name": "Ragdoll",
+    "name_de": "Ragdoll"
+  },
+  {
+    "name": "Russian Blue",
+    "name_de": "Russisch Blau"
+  },
+  {
+    "name": "Russian White, Black and Tabby",
+    "name_de": "Russian White, Black und Tabby"
+  },
+  {
+    "name": "Sam Sawet",
+    "name_de": "Sam Sawet"
+  },
+  {
+    "name": "Savannah",
+    "name_de": "Savannah"
+  },
+  {
+    "name": "Scottish Fold",
+    "name_de": "Scottish Fold"
+  },
+  {
+    "name": "Selkirk Rex",
+    "name_de": "Selkirk Rex"
+  },
+  {
+    "name": "Serengeti",
+    "name_de": "Serengeti"
+  },
+  {
+    "name": "Serrade Petit",
+    "name_de": "Serrade Petit"
+  },
+  {
+    "name": "Siamese",
+    "name_de": "Siamese"
+  },
+  {
+    "name": "Siberian",
+    "name_de": "Sibirisch"
+  },
+  {
+    "name": "Singapura",
+    "name_de": "Singapur"
+  },
+  {
+    "name": "Snowshoe",
+    "name_de": "Schneeschuh"
+  },
+  {
+    "name": "Sokoke",
+    "name_de": "Sokoke"
+  },
+  {
+    "name": "Somali",
+    "name_de": "Somali"
+  },
+  {
+    "name": "Sphynx",
+    "name_de": "Sphynx"
+  },
+  {
+    "name": "Suphalak",
+    "name_de": "Suphalak"
+  },
+  {
+    "name": "Thai",
+    "name_de": "Thai"
+  },
+  {
+    "name": "Thai Lilac",
+    "name_de": "Thai Flieder"
+  },
+  {
+    "name": "Tonkinese",
+    "name_de": "Tonkinese"
+  },
+  {
+    "name": "Toyger",
+    "name_de": "Toyger"
+  },
+  {
+    "name": "Turkish Angora",
+    "name_de": "Türkische Angora"
+  },
+  {
+    "name": "Turkish Van",
+    "name_de": "Türkischer Van"
+  },
+  {
+    "name": "Ukrainian Levkoy",
+    "name_de": "Ukrainian Levkoy"
+  }
+]
